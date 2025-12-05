@@ -10,7 +10,7 @@ import library.user.User;
 
 public class Main {
     public static void main(String[] args) {
-
+        //test
         // User test
         User user = new User();
         user.id = "U001";
@@ -41,7 +41,7 @@ public class Main {
         rr.returnDate = returnAfter1Day;
         rr.showReturn();
 
-        // Notification (module mới)
+        // Notification
         Notification notify = new Notification();
         notify.userId = "U001";
         notify.type = "info";
