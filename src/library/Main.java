@@ -10,7 +10,7 @@ import library.user.User;
 
 public class Main {
     public static void main(String[] args) {
-        //test
+        // Label
         // User test
         User user = new User();
         user.id = "U001";
