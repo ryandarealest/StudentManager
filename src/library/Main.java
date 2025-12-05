@@ -45,7 +45,7 @@ public class Main {
         Notification notify = new Notification();
         notify.userId = "U001";
         notify.type = "info";
-        notify.message = "Ban da tra sach thanh cong!";
+        notify.message = "Ban da tra sach thanh cong";
         notify.send();
 
         // Search
