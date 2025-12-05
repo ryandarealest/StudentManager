@@ -21,7 +21,7 @@ public class Main {
         // Book test
         Book book = new Book();
         book.bookId = "B001";
-        book.title = "Lap Trinh Java";
+        book.title = "Lap Trinh Python";
         book.quantity = 5;
         book.showBook();
 
