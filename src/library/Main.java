@@ -14,7 +14,7 @@ public class Main {
         // User test
         User user = new User();
         user.id = "U001";
-        user.name = "Nguyen Van A";
+        user.name = "Nguyen Van B";
         user.role = "Reader";
         user.showInfo();
 
