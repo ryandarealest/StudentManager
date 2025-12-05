@@ -50,7 +50,7 @@ public class Main {
 
         // Search
         Search s = new Search();
-        s.keyword = "Java";
+        s.keyword = "Python";
         s.category = "Programming";
         s.doSearch();
     }
