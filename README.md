@@ -129,7 +129,7 @@ All evidence has been collected and attached in the practice report.
 ## Repository Link
 
 ```
-https://github.com/ryandarealest/StudentManager
+https://github.com/ryandarealest/StudentManager.git
 ```
 
 ---
@@ -140,6 +140,4 @@ https://github.com/ryandarealest/StudentManager
 * All Git commands were executed using **Git Bash**.
 * All collaboration activities (Pull Requests, Merge, Releases) were performed on **GitHub Web**.
 
----
 
-© 2025 – Git Workflow Practice – StudentManager
